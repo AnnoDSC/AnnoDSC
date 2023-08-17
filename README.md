@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=annodsc&label=Profile%20views&color=0e75b6&style=flat" alt="annodsc" /> </p>
 
-<h4>My Projects</h4>
+<h4>My Projects:</h4>
 
 - 🔭 I’m currently working on **Discord.py Bots**
 
