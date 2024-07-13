@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anno\Ben</h1>
-<h3 align="center">I am currently in the 10th class and would like to complete my technical college entrance qualification to study computer science at a university</h3>
+<h3 align="center">I am currently in the 11th class and would like to complete my technical college entrance qualification to study computer science at a university</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=annodsc&label=Profile%20views&color=0e75b6&style=flat" alt="annodsc" /> </p>
 
